@@ -15,10 +15,10 @@ You are not allowed to collaborate during the Sprint Challenge. However, you are
 
 In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and make your page responsive for mobile. You will be working with a pre-existing web page, allowing you to get a taste of what it is like to inherit code from someone else, as will regularly happen on the job.
 
-In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version. 
+In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home page and mobile version.
 
  [Click here for home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
- 
+
  [Click here for tablet example](design/Tablet.png)
 
 
@@ -35,14 +35,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+semantic HTML is writing meaningful code for the content presented
 
 2. What are the 4 areas of the box model?
+Content, padding, border, margin
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Cross axis
 
 4. Explain why git is valuable to a team of developers.
+Keeps track and helps make changes without stepping on each others feet
 
 5. Define mobile-first design in your own words.
+Responsive design for webpage especially keeping mobile and different screen sizes in mind
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
